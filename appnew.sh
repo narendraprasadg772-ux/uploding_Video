@@ -1,0 +1,1 @@
+for i in {1..149}; do rm "file$i.txt"; done
